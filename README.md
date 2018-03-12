@@ -35,6 +35,12 @@
 
   ![image](http://p39e7cgx2.bkt.clouddn.com/%E8%B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6-%E4%BD%9C%E8%80%85%E4%B9%A6%E7%B1%8D%E6%95%B0%E9%87%8F.png)
 
+  ### 书籍价格与年份的统计
+
+  ![image](http://p39e7cgx2.bkt.clouddn.com/%E8%B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6-%E4%B9%A6%E7%B1%8D%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%B9%B4%E4%BB%BD.png)
+
+  ![imgae](http://p39e7cgx2.bkt.clouddn.com/%E8%B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6-%E4%B9%A6%E7%B1%8D%E8%AF%84%E5%88%86%E4%B8%8E%E5%B9%B4%E4%BB%BD1.png)
+
   ​
 
 
