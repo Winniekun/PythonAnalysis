@@ -5,7 +5,8 @@
 1. [利用Python进行数据分析](https://github.com/KongWiKi/PythonAnalysis/tree/master/PythonForDataAnalysis)
    * [x] 第二章 范例数据集的分析 ----- 2018/02/08
 2. [Python数据可视化编程实战]()
-   * [x] ...
+   * [x] 第三章
+   
 3. [pandas官网文档(十分钟入门pandas)](https://github.com/KongWiKi/PythonAnalysis/tree/master/summary_pandas)
    * [ ] 未完成
 
