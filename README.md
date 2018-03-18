@@ -2,7 +2,7 @@
 
 ## 书籍
 
-### 利用Python进行数据分析 
+### [利用Python进行数据分析](https://github.com/KongWiKi/PythonAnalysis/tree/master/PythonForDataAnalysis) 
 
 * [x] 第二章 范例数据集的分析             ----- 2018/02/08
 
@@ -10,13 +10,14 @@
 
 - ...
 
-### pandas官网文档(十分钟入门pandas)
+### [pandas官网文档(十分钟入门pandas)](https://github.com/KongWiKi/PythonAnalysis/tree/master/summary_pandas)
 
-[官网](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [官网链接](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
 
 * ​
 
-## 实战项目
+## [实战项目](https://github.com/KongWiKi/PythonAnalysis/tree/master/ActualCombat)
 
 * [x] 神秘巨星情感分析
 
